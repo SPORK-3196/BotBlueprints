@@ -12,7 +12,6 @@
 <p>This might include drivetrain subsystems, sensor wrappers, utility classes, and general-purpose tools like PID controllers or motor helpers. By placing this code in common, it can be reused each year without needing modification.</p>
 <p>On the other hand, the games folder is dedicated to game-specific code tailored to the unique rules, strategies, and mechanisms of each season’s challenge. Within it, subfolders like reefscape2025 and mars2026 contain code and logic that are specific to those games, such as autonomous routines, game-object handling, or field navigation strategies.</p>
 <p>This structure enhances modularity and maintainability, allowing developers to update the robot's core functionality independently from the yearly strategy while supporting clean organization and code reuse.🚀</p>
-<hr>
 <p>This is an example of our code hierarchy - </p>
 <ul>
   <li>java/
@@ -35,4 +34,7 @@
     </ul>
   </li>
 </ul>
+<hr>
+<p>To contact us about joining BotBlueprints please email:</p>
+<a href="mailto:robotics@pinelakeprep.org">robotics@pinelakeprep.org</a>
 
