@@ -23,7 +23,7 @@
               <li>common/</li>
               <li>games/
                 <ul>
-                  <li>mars2026/</li>
+                  <li>rebuilt2026/</li>
                   <li>reefscape2025/</li>
                 </ul>
               </li>
